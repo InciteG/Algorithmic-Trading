@@ -1,0 +1,24 @@
+# pip install -r requirements.txt
+
+#virtual env setup
+ipython
+jupyter
+virtualenv
+
+#scraping
+requests
+beautifulsoup4
+selenium
+scrapy
+
+#database connector
+pyodbc
+
+#dataframe
+pandas
+
+#trading
+ujson
+v20
+PyYAML
+--index-url hhtps://test.pypi.org/simple/tpqoa
